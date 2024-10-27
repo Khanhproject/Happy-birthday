@@ -1,7 +1,7 @@
 const contentLetterSrart_actived =
   "Chúc mừng sinh nhật chị. Chị nhấn vào hộp quà thử đi!";
 const mainContentLetter =
-  "Nhân ngày sinh nhật  chúc chị mỗi ngày trong tuổi mới sẽ luôn là một hành trình thú vị, đầy áp niềm vui và những điều thú vị. Chúc chị tuổi mới luôn vui tươi, hạnh phúc, khỏe mạnh, thành công. Mong mọi điều tốt đẹp nhất sẽ đến với chị <3 "; //Nội dung của bức thư
+  "Nhân ngày sinh nhật  chúc chị mỗi ngày trong tuổi mới sẽ luôn là một hành trình thú vị, đầy áp niềm vui và hạnh phúc. Chúc chị tuổi mới luôn vui tươi, hạnh phúc, khỏe mạnh, thành công. Mong mọi điều tốt đẹp nhất sẽ đến với chị <3 "; //Nội dung của bức thư
 
 let imgStart = document.querySelector(".myAI"); //Hình ảnh xuất hiện trong lời mở đầu của bức thư
 imgStart.src = "./img/cute-young-boy-kid-wearing-vest-and-hat-free-png.png";
